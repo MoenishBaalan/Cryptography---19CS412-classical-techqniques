@@ -1,6 +1,6 @@
 # Cryptography---19CS412-classical-techqniques
 ## EX.NO:1-Caeser Cipher
-## DATE:17-03-2025
+## DATE:19-02-2025
 
 Caeser Cipher using with different key values
 
@@ -85,7 +85,7 @@ The program is executed successfully
 
 
 ## EX.NO:2-PlayFair Cipher
-## DATE:19-08-2024
+## DATE:24-02-2025
 Playfair Cipher using with different key values
 
 ### AIM:
@@ -251,7 +251,7 @@ The program is executed successfully
 Hill Cipher using with different key values
 
 ### EX.NO:3-Hill Cipher
-### DATE:29-08-2024
+### DATE:26-02-2025
 
 To develop a simple C program to implement Hill Cipher.
 
@@ -333,7 +333,7 @@ The program is executed successfully
 -------------------------------------------------
 
 ## EX.NO:4-Vigenere Cipher
-## DATE:02-09-2024
+## DATE:03-03-2025
 Vigenere Cipher using with different key values
 
 ### AIM:
@@ -413,7 +413,7 @@ The program is executed successfully
 -----------------------------------------------------------------------
 
 ## EX.NO:5-Rail Fence Cipher
-## DATE:12-09-2024
+## DATE:05-03-2025
 Rail Fence Cipher using with different key values
 
 ### AIM:
